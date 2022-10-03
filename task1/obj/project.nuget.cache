@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QG1ydK/WJJvGgNCAW9CwS59TbCre+4M6+IpFdh/rsHnbuFG2Ft5042ucGN4317W8lzLXqlhxFudIEglSDPkudQ==",
+  "success": true,
+  "projectFilePath": "/home/darkdro/Desktop/test/cs_1sthomework/task1/task1.csproj",
+  "expectedPackageFiles": [
+    "/home/darkdro/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
