@@ -1,5 +1,6 @@
 ﻿System.Console.WriteLine("Write numbers:");
 //int []array = {Convert.ToInt32(Console.ReadLine()), Convert.ToInt32(Console.ReadLine()), Convert.ToInt32(Console.ReadLine())};
+int[] array = new int[3];
 for(int n = 0; n < 3; n++)
 {
     array[n] = Convert.ToInt32(Console.ReadLine());
